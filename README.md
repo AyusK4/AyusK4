@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pduration=2000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayus+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making;Deep+Learning+%7C+LLMs+%7C+MLOps+%7C+DevOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pduration=2000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ayush+K.C.+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+making;Deep+Learning+%7C+LLMs+%7C+MLOps+%7C+DevOps" alt="Typing SVG" />
 
 **Building intelligent systems — from research notebooks to production pipelines.**
 
