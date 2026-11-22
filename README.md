@@ -4,10 +4,6 @@
 
 **Building intelligent systems — from research notebooks to production pipelines.**
 
-<a href="https://github.com/AyusK4?tab=followers"><img src="https://img.shields.io/github/followers/AyusK4?style=for-the-badge&logo=github&color=8957e5" /></a>
-<a href="https://github.com/AyusK4?tab=repositories"><img src="https://img.shields.io/badge/Repos-11+-2ea043?style=for-the-badge&logo=git&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=AyusK4&style=for-the-badge&color=1f6feb&label=Profile+Views" />
-
 </div>
 
 ---
@@ -48,15 +44,6 @@
 | [🔊 Audio Denoising](https://github.com/AyusK4/Audio-denoising-using-deep-learning) | Cleaning noisy audio with deep neural networks | Python |
 | 🎙️ Audio-to-Text (Speech Recognition) | Converts spoken audio into accurate text transcripts | Python, ASR |
 | [🎮 Game Controller](https://github.com/AyusK4/Game-controller) | Interactive game controller project | JavaScript |
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AyusK4&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyusK4&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ### 🤝 Let's Connect
 
